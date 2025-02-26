@@ -1,0 +1,4 @@
+[submodule "src/lidarslam_ros2"]
+	path = src/lidarslam_ros2
+	url = git@github.com:anirudh-kilambi/lidarslam_ros2.git
+	branch = humble
